@@ -19,7 +19,7 @@ This repository created for training and understanding Javascript principle. Whi
 | 03    |                             [Counter](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Counter)                                                                                |
 | 04    |                                            [Dice Game](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Dice%20Game)                                                           |
 | 05    |                                                     [Drum Kit](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Drum%20Kit)                                                    |
-
+| 06    |                                                     [Navbar](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Navbar)  
 
 
 ## 📎 Sources
