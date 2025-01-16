@@ -12,7 +12,6 @@ This repository created for training and understanding Javascript principle. Whi
 
 ## About the App
 
-<<<<<<< HEAD
 <p class="has-line-data" data-line-start="10" data-line-end="11"> Navbar is essential unit. User can go other pages or socials with that. </p>
 
 
