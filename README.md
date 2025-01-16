@@ -21,7 +21,7 @@ This repository created for training and understanding Javascript principle. Whi
 | 05    |                                                     [Drum Kit](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Drum%20Kit)                                                    |
 | 06    |                                                     [Navbar](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Navbar)  
 | 07    |                                                     [Modal](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Modal) 
-| 07    |                                                     [3D Boxes Background](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/3d%20Boxes%20BG) 
+| 07    |                                                     [3D Boxes Background](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/3d-Boxes-BG)
 ## 📎 Sources
 
 - <[https://www.tutorialspoint.com/data_structures_algorithms](https://www.udemy.com/course/the-complete-web-development-bootcamp)>
