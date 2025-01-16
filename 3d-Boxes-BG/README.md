@@ -1,4 +1,4 @@
-# Navbar
+# 3d Boxes Background 
 
 This repository created for training and understanding Javascript principle. While doing that you will practice CSS and DOM Manipulation.
 
@@ -12,8 +12,9 @@ This repository created for training and understanding Javascript principle. Whi
 
 ## About the App
 
-<p class="has-line-data" data-line-start="10" data-line-end="11"> A basic Navigation Bar with Social Medias. </p>
+<p class="has-line-data" data-line-start="10" data-line-end="11"> Basic JS puzzle function. </p>
 
 
-## Usecase of the App
+## Screenshots of the App
+![alt text](<Ekran görüntüsü 2025-01-16 185408.png>)
 ![alt text](image.png)
