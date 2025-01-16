@@ -20,7 +20,7 @@ This repository created for training and understanding Javascript principle. Whi
 | 04    |                                            [Dice Game](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Dice%20Game)                                                           |
 | 05    |                                                     [Drum Kit](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Drum%20Kit)                                                    |
 | 06    |                                                     [Navbar](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Navbar)  
-
+| 07    |                                                     [Modal](https://github.com/berkinyilmaz/basic-frontend-projects/tree/main/Modal) 
 
 ## 📎 Sources
 
